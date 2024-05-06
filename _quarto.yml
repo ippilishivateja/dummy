@@ -17,7 +17,7 @@ format:
     
 output:
   quarto::html_document:
-    theme: vapor
+    theme: default
       
 
 editor: visual
